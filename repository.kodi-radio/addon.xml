@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.kodi-radio"
+       name="Kodi Radio Repository"
+       version="1.0.0"
+       provider-name="Hard_Zulu">
+    <extension point="xbmc.addon.repository" name="Kodi Radio Repository">
+		<info>https://kodi-radio-1.netlify.app/kodi-radio/addons.xml</info>
+		<checksum>https://kodi-radio-1.netlify.app/kodi-radio/addons.xml.md5</checksum>
+		<datadir>https://kodi-radio-1.netlify.app/kodi-radio/</datadir>
+    </extension>
+</addon>
