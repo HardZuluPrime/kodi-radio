@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+    <addon id="plugin.audio.poslouchej.radia"
+           name="Poslouchej Rádio"
+           version="1.0.0"
+           provider-name="Hard_Zulu">
+        <extension point="xbmc.addon.repository" name="kodi-radio">
+            <info compressed="false">addons.xml</info>
+            <checksum>addons.xml.md5</checksum>
+            <datadir>.</datadir>
+        </extension>
+    </addon>
+</addons>
